@@ -1,0 +1,1 @@
+{"name":"update_user","type":"function","source":{"https":"https://github.com/devthalal/update_user","ssh":"git@github.com:devthalal/update_user.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i","standAloneBlox":false}
